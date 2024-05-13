@@ -1,0 +1,2 @@
+this endpoint worked: http://project-aws-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://fastly.picsum.photos/id/824/200/300.jpg?hmac=CPaWVapi5aRxRDN0wSZfBeD_w8iiddSi1zhfyLj7AnA
+but this one not worked. I dont know why: http://project-aws-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
